@@ -1,0 +1,7 @@
+C:\Users\IDEAPAD GAMING\source\repos\Arreglar el programa 2.0\Arreglar el programa 2.0\bin\Debug\Arreglar el programa 2.0.exe.config
+C:\Users\IDEAPAD GAMING\source\repos\Arreglar el programa 2.0\Arreglar el programa 2.0\bin\Debug\Arreglar el programa 2.0.exe
+C:\Users\IDEAPAD GAMING\source\repos\Arreglar el programa 2.0\Arreglar el programa 2.0\bin\Debug\Arreglar el programa 2.0.pdb
+C:\Users\IDEAPAD GAMING\source\repos\Arreglar el programa 2.0\Arreglar el programa 2.0\obj\Debug\Arreglar el programa 2.0.csproj.AssemblyReference.cache
+C:\Users\IDEAPAD GAMING\source\repos\Arreglar el programa 2.0\Arreglar el programa 2.0\obj\Debug\Arreglar el programa 2.0.csproj.CoreCompileInputs.cache
+C:\Users\IDEAPAD GAMING\source\repos\Arreglar el programa 2.0\Arreglar el programa 2.0\obj\Debug\Arreglar el programa 2.0.exe
+C:\Users\IDEAPAD GAMING\source\repos\Arreglar el programa 2.0\Arreglar el programa 2.0\obj\Debug\Arreglar el programa 2.0.pdb
